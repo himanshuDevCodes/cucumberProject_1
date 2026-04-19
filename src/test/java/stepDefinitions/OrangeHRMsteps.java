@@ -34,7 +34,7 @@ public class OrangeHRMsteps {
         driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 
         wait.until(ExpectedConditions.titleContains("OrangeHRM"));
-        System.out.println("This is cucumber test on pushxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+        System.out.println("This is cucumber test on pushxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxgit");
         Thread.sleep(8000);
 
     }
